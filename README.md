@@ -110,9 +110,10 @@ I am currently looking to gain more experience in creating and designing in a te
 
 ### Working fields
 
--   IT
+IT
 -   Docler Holding - Support Associate
--   Tourism
+
+Tourism
 -   Parisi Udvar Hotel Budapest - Front of House
 
 ### Motivation
@@ -128,7 +129,7 @@ I am currently looking to gain more experience in creating and designing in a te
 
 ### Personal Highlights
 
--   I have been maintaining a healthy mind for almos 30 years.
+-   I have been maintaining a healthy mind for almost 30 years.
 
 ### Music
 
