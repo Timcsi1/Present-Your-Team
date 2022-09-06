@@ -3,7 +3,7 @@
 }
 div {
   background-color: aquamarine;
-  height: 200px;
+  height: 100px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -11,5 +11,6 @@ div {
 
 h1 {
   font-family: "Montserrat", sans-serif;
-  font-size: 32px;
+  font-size: 40px;
+  color: darkblue;
 }
