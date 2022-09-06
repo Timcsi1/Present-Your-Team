@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+}
+div {
+  background-color: aquamarine;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 32px;
+}
