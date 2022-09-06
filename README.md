@@ -93,8 +93,7 @@ Nordisk as assistant. a supply chain leader in the pharma industry.
 
 ## Daniel Lendvai "Dani"
 Budapest
-29 yrs
-?
+Since 92' 
 
 ### About me
 
@@ -102,7 +101,7 @@ My ultimate goal is to build clean and user-friendly websites.
 
 I am currently looking to gain more experience in creating and designing in a test-driven environment.  
 
-> my favorite quote
+> my favorite quote: "Azt megeszed még?"
 
 ### Education
 
@@ -129,19 +128,28 @@ I am currently looking to gain more experience in creating and designing in a te
 
 ### Personal Highlights
 
+-   I have been maintaining a healthy mind for almos 30 years.
+
 ### Music
+
+-   US 90's hip-hop allstars
 
 ### Movie
 
+-   MCU movies
+
 ### Series
+
+-   too many 
 
 ### Food
 
-Middle-eastern cuisine
+-   POWER GULASH
+-   Middle-eastern cuisine
 
 ### Pets
 
-Zsanett the rabbit
+-   Zsanett the pet rabbit
 
 ## Róbert Valcsák "Robi"
 Leányvár
