@@ -112,6 +112,10 @@ I am currently looking to gain more experience in creating and designing in a te
 
 IT
 -   Docler Holding - Support Associate
+<<<<<<< HEAD
+=======
+
+>>>>>>> 94339e097736371f5a15a5eaf2787bf6f58b3650
 Tourism
 -   Parisi Udvar Hotel Budapest - Front of House
 
@@ -128,7 +132,7 @@ Tourism
 
 ### Personal Highlights
 
--   I have been maintaining a healthy mind for almos 30 years.
+-   I have been maintaining a healthy mind for almost 30 years.
 
 ### Music
 
