@@ -110,9 +110,9 @@ I am currently looking to gain more experience in creating and designing in a te
 
 ### Working fields
 
--   IT
+IT
 -   Docler Holding - Support Associate
--   Tourism
+Tourism
 -   Parisi Udvar Hotel Budapest - Front of House
 
 ### Motivation
