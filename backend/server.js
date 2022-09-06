@@ -72,7 +72,7 @@ const server = http.createServer((req, res) => {
 		res.end(errorHTML);
 	}else{
 		if(fs.statSync(filePath).isDirectory()) {
-			filePath += '/index.html';
+			filePath += 'frontend/index.html';
 		}
 		fs.readFile(filePath, "binary", (err, data) => {
 			if(err) {
