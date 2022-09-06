@@ -35,11 +35,12 @@ Localization
 
 ## Tímea Her "Timi"
 Göd
-forever young
-?
+48
+Vác
 
 ### About me
-text?
+What you spend years building may be destroyed overnight.
+Build anyway.
 
 > my favorite quote
 
