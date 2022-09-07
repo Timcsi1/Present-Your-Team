@@ -31,7 +31,10 @@ a {
 
 .img-profile {
   object-fit: cover;
+  width: 100%;
   max-height: 500px;
+  border-color: rgb(13, 63, 17) !important;
+  background-color: rgb(13, 63, 17) !important;
 }
 
 .bio {
@@ -39,5 +42,5 @@ a {
 }
 
 .custom-text-color {
-  color: rgb(255, 255, 255) !important; /* szöveg szín */
+  color: rgb(13, 63, 17) !important; /* szöveg szín */
 }
