@@ -1,0 +1,25 @@
+.main-card {
+  margin-top: 1rem;
+  padding: 2rem;
+  border-color: aqua; /* szegély szín */
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 15px;
+}
+
+.main-container {
+  background-image: url(https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80); /* háttér kép */
+  background-repeat: no-repeat;
+}
+
+.img-profile {
+  object-fit: cover;
+}
+
+.bio {
+  padding: 5rem;
+}
+
+.custom-text-color {
+  color: black; /* szöveg szín */
+}
