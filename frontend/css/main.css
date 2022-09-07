@@ -21,7 +21,33 @@ h1 {
   width: 20vw;
 }
 
+@media (max-width: 576px) {
+  .headerImage {
+    display: none;
+  }
+}
+
+.img-card {
+  height: 30rem;
+  object-fit: cover;
+}
+
 a {
   text-decoration: none !important;
   color: inherit !important;
+}
+.title {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.main-section {
+  background-image: url(https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80); /* háttér kép */
+  padding: 3rem;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.team-card {
+  padding-bottom: 2rem;
 }
