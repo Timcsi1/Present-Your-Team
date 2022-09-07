@@ -24,7 +24,7 @@ if (p.includes("sajatneved")) {    //if it contains "sajatneved" then display
     document
         .querySelector(".education")
         .appendChild(document.createElement("li")).textContent =
-        obj.classMates[0].education;
+        obj.classMates[1].education;
     document
         .querySelector(".working-fields")
         .appendChild(document.createElement("li")).textContent =
