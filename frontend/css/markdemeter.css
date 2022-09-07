@@ -1,25 +1,47 @@
+.header {
+    background-color: rgb(5, 154, 196);
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/001/937/048/small/digital-technology-background-vector.jpg);
+    background-size: cover;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .main-card {
-  margin-top: 1rem;
-  padding: 2rem;
-  border-color: aqua; /* szegély szín */
-  border-style: solid;
-  border-width: 5px;
-  border-radius: 15px;
+    margin-top: 1rem;
+    padding: 2rem;
+    border-color: rgb(0, 86, 110); /* szegély szín */
+    background-color: rgb(0, 34, 43); /* háttér szín */
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 15px;
+}
+
+.custom-header {
+    background-color: blueviolet; /* header szín */
+    color: green; /* header szöveg szín */
 }
 
 .main-container {
-  background-image: url(https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80); /* háttér kép */
-  background-repeat: no-repeat;
+    background-image: url(https://st4.depositphotos.com/10325396/23951/i/1600/depositphotos_239513046-stock-photo-programming-code-abstract-technology-background.jpg); /* háttér kép */
+    padding: 3rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.top-row {
+    margin-bottom: 1rem;
 }
 
 .img-profile {
-  object-fit: cover;
+    object-fit: cover;
 }
 
 .bio {
-  padding: 5rem;
+    padding: 5rem;
 }
 
 .custom-text-color {
-  color: black; /* szöveg szín */
+    color: rgb(255, 255, 255) !important; /* szöveg szín */
 }
