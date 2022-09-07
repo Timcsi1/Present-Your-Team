@@ -1,0 +1,37 @@
+.main-card {
+  margin-top: 1rem;
+  padding: 2rem;
+  border-color: aqua; /* szegély szín */
+  background-color: blue; /* háttér szín */
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 15px;
+}
+
+.custom-header {
+  background-color: blueviolet; /* header szín */
+  color: green; /* header szöveg szín */
+}
+
+.main-container {
+  background-image: url(https://assets.wallpapersin4k.org/uploads/2017/04/Images-Wallpaper-24.jpg); /* háttér kép */
+  padding: 3rem;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.top-row {
+  margin-bottom: 1rem;
+}
+
+.img-profile {
+  object-fit: cover;
+}
+
+.bio {
+  padding: 5rem;
+}
+
+.custom-text-color {
+  color: rgb(255, 255, 255) !important; /* szöveg szín */
+}
