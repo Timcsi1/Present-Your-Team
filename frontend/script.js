@@ -1,7 +1,7 @@
 // JSON string
 let txt =
     '{"classMates":[' +
-    '{"firstName":"Daniel","lastName":"Lendvai","education":"Szent Istvan University","motivation":"Building good-looking stuff from scratch","workingfield":"Tourism","skill":"loremipsum","interest":"loremipsummipsum","highlight":"loremipsum","movie":"loremipsum","music":"loremipsum","videogame":"loremipsum"},' +
+    '{"firstName":"Daniel","lastName":"Lendvai","age":"29","location":"BP since 92","education":"Szent Istvan University","motivation":"Building good-looking stuff from scratch","workingfield":"Tourism","skill":"loremipsum","interest":"loremipsummipsum","highlight":"loremipsum","movie":"loremipsum","music":"loremipsum","videogame":"loremipsum"},' +
     '{"firstName":"Mark","lastName":"Smith","education":"School","motivation":"Lorem ipsum"},' +
     '{"firstName":"Johannis","lastName":"Jones","education":"School","motivation":"Lorem ipsum"},' +
     '{"firstName":"Robert","lastName":"Garry","education":"School","motivation":"Lorem ipsum"},' +
@@ -12,6 +12,12 @@ let obj = JSON.parse(txt); //  converts text into a JavaScript object
 let p = window.location.pathname; //checks which page is running
 if (p.includes("daniellendvai")) {
     //if it contains "daniellenvai" then display
+    document.querySelector(".fullName").innerHTML =
+        obj.classMates[0].firstName + " " + obj.classMates[0].lastName;
+
+    document.querySelector(".location").innerHTML = obj.classMates[0].location;
+    document.querySelector(".age").innerHTML = obj.classMates[0].age;
+
     document
         .querySelector(".education")
         .appendChild(document.createElement("li")).textContent =
@@ -20,6 +26,10 @@ if (p.includes("daniellendvai")) {
         .querySelector(".working-field")
         .appendChild(document.createElement("li")).textContent =
         obj.classMates[0].workingfield;
+    document
+        .querySelector(".motivation")
+        .appendChild(document.createElement("li")).textContent =
+        obj.classMates[0].motivation;
     document
         .querySelector(".skill")
         .appendChild(document.createElement("li")).textContent =
