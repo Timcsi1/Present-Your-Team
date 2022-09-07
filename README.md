@@ -1,4 +1,5 @@
 ## First name, last name
+
 Born in
 yrs old
 Localization
@@ -18,27 +19,29 @@ Localization
 ### Interests
 
 ### Personal Highlights
- 
+
 ### Music
 
-### Movie    
+### Movie
 
-### Series  
+### Series
 
 ### Food
 
 ### Pets
 
----------------------------------------
+---
 
 # Team Enthusiastic Beginners
 
 ## Tímea Her "Timi"
+
 Göd
 48
 Vác
 
 ### About me
+
 What you spend years building may be destroyed overnight.
 Build anyway.
 
@@ -51,36 +54,36 @@ Build anyway.
 
 ### Working fields
 
--  Regional (Mid Size Markets) and Global (Consumer, Trade) Supply Chain
-Director at J&J Pharma Company
--  Supply Chain and Distribution manager at Pfizer
--  Customer Service Manager at Novo Nordisk
--  Few yrs experiences in finance, regulatory, marketing and sales at Novo
+- Regional (Mid Size Markets) and Global (Consumer, Trade) Supply Chain
+  Director at J&J Pharma Company
+- Supply Chain and Distribution manager at Pfizer
+- Customer Service Manager at Novo Nordisk
+- Few yrs experiences in finance, regulatory, marketing and sales at Novo
 
 Nordisk as assistant. a supply chain leader in the pharma industry.
 
 ### Motivation
 
--  Changing mindset, curiosity, learning area driving digitalization, so the future.
+- Changing mindset, curiosity, learning area driving digitalization, so the future.
 
 ### Skills
 
--  Curious
--  Assertive
--  Collaborative
+- Curious
+- Assertive
+- Collaborative
 
 ### Interests
 
--  Travel
--  Learning drum
--  Running
--  Excursions
+- Travel
+- Learning drum
+- Running
+- Excursions
 
 ### Personal Highlights
 
 ### Music
 
--  Rock, metal
+- Rock, metal
 
 ### Movie
 
@@ -93,108 +96,109 @@ Nordisk as assistant. a supply chain leader in the pharma industry.
 ### Pets
 
 ## Daniel Lendvai "Dani"
+
 Budapest
-Since 92' 
+Since 92'
 
 ### About me
 
 My ultimate goal is to build clean and user-friendly websites.
 
-I am currently looking to gain more experience in creating and designing in a test-driven environment.  
+I am currently looking to gain more experience in creating and designing in a test-driven environment.
 
 > my favorite quote: "Azt megeszed még?"
 
 ### Education
 
--   CodeCool’s front-end web development bootcamp (ongoing)
--   Szent István University - Faculty of Economics and Social Sciences
+- CodeCool’s front-end web development bootcamp (ongoing)
+- Szent István University - Faculty of Economics and Social Sciences
 
 ### Working fields
 
 IT
--   Docler Holding - Support Associate
+
+- Docler Holding - Support Associate
 
 Tourism
--   Parisi Udvar Hotel Budapest - Front of House
+
+- Parisi Udvar Hotel Budapest - Front of House
 
 ### Motivation
 
--   I would like to pick up more experience in web development.
--   Highly motivated in building things from scratch.
+- I would like to pick up more experience in web development.
+- Highly motivated in building things from scratch.
 
 ### Interests
 
--   Gaming 
--   Music production 
--   Foreing languages  
+- Gaming
+- Music production
+- Foreing languages
 
 ### Personal Highlights
 
--   I have been maintaining a healthy mind for almost 30 years.
+- I have been maintaining a healthy mind for almost 30 years.
 
 ### Music
 
--   US 90's hip-hop allstars
+- US 90's hip-hop allstars
 
 ### Movie
 
--   MCU movies
+- MCU movies
 
 ### Series
 
--   too many 
+- too many
 
 ### Food
 
--   POWER GULASH
--   Middle-eastern cuisine
+- POWER GULASH
+- Middle-eastern cuisine
 
 ### Pets
 
--   Zsanett the pet rabbit
+- Zsanett the pet rabbit
 
 ## Róbert Valcsák "Robi"
+
 Leányvár
 29 yrs
 ?
 
 ### About me
+
 text?
 
 > my favorite quote
 
 ### Education
 
--   Vendéglátóipari Szakképző iskola Gyöngyös - HU
-    
--   Codecool : Frontend Web Developer Bootacmp
+- Vendéglátóipari Szakképző iskola Gyöngyös - HU
+- Codecool : Frontend Web Developer Bootacmp
 
 ### Working fields
 
--   Fenyőharaszt Kastélyszálló - worked as a waiter
-    
+- Fenyőharaszt Kastélyszálló - worked as a waiter
+
 ### Motivation
 
--   I would like to learn the basics of web development.
-    
--   My intention is to start my career in web development after the Codecool bootcamp.
-    
+- I would like to learn the basics of web development.
+- My intention is to start my career in web development after the Codecool bootcamp.
+
 ### Skills
 
--   Patience 
--   Open minded
-    
+- Patience
+- Open minded
+
 ### Interests
 
--   Hiking
-    
--   Playing guitar
-    
--   Gaming
+- Hiking
+- Playing guitar
+- Gaming
 
 ### Music
 
--   Almost every genre but i prefer rock and metal the most
+- Almost every genre but i prefer rock and metal the most
 
 ### Movie
 
@@ -205,71 +209,70 @@ text?
 ### Pets
 
 ## Márk Demeter "Marcus"
+
 Miskolc
 32 yrs
 Székesfehérvár
 
 ### About me
+
 blabla
 
 > my favorite quote
 
 ### Education
-    
--   Mechatronikai Szki., Budapest-HU
--   University of West Hungary - Timber Industry Engineer BSc. /  
-    Product - and production planning, Sopron-HU
--   WIFI Graz - CNC operator, Graz-AT
--   Landesberufschule 8 Graz - Mechanical Design Engineering, Graz-AT
+
+- Mechatronikai Szki., Budapest-HU
+- University of West Hungary - Timber Industry Engineer BSc. /  
+  Product - and production planning, Sopron-HU
+- WIFI Graz - CNC operator, Graz-AT
+- Landesberufschule 8 Graz - Mechanical Design Engineering, Graz-AT
 
 ### Working fields
-    
--   Mechanical Engineer - PIA Automation, Grambach-AT 
--   Process Engineer - BEURER-Hungaria, Veszprém-HU    
--   Development Engineer - Balluff-Elektronika, Veszprém-HU 
--   Chief Process Engineer - Hydro Extrusions Hungary, Székesfehérvár-HU
-   
+
+- Mechanical Engineer - PIA Automation, Grambach-AT
+- Process Engineer - BEURER-Hungaria, Veszprém-HU
+- Development Engineer - Balluff-Elektronika, Veszprém-HU
+- Chief Process Engineer - Hydro Extrusions Hungary, Székesfehérvár-HU
+
 ### Motivation
 
--   learning javascript, html, css, node.js, react
--   working as a web developer after the course
- 
+- learning javascript, html, css, node.js, react
+- working as a web developer after the course
+
 ### Skills
 
--   good problemsolver
--   goal-oriented approach 
--   team-player 
--   good communicator
+- good problemsolver
+- goal-oriented approach
+- team-player
+- good communicator
 
 ### Interests
-    
--   rock climbing / bouldering
-    
--   outdoor activities
-    
--   reading
-    
--   automation, robotics
+
+- rock climbing / bouldering
+- outdoor activities
+- reading
+- automation, robotics
 
 ### Personal Highlights
-  
- - When I climbed my first 8A boulder.
+
+- When I climbed my first 8A boulder.
 
 ### Music
 
--   everything 
+- everything
 
 ### Movie
-    
--   The Godfather   
--   Casino 
--   Up
 
-### Series  
+- The Godfather
+- Casino
+- Up
 
--   Sons of Anarchy
--   Sopranos
--   Family guy
+### Series
+
+- Sons of Anarchy
+- Sopranos
+- Family guy
 
 ### Food
 
@@ -280,51 +283,74 @@ blabla
 
 - I have family.
 
+## Tamás Petruska "Tomi"
 
-## Tamás Petruska  "Tomi"
 Budapest XVIII.
 Pestszentlőrinc
 23 yrs
-?
- 
- ### About me
-blabla
 
-> my favorite quote
-  
+### About me
+
+> my favorite quote "Aki bújt, aki nem, megtekerem, mert azért van pedál a biciklimen. - Fluor Tomi"
+
 ### Education
--   High School : BMSZC Pustkás Tivadar Telecommunication Tech-School
--   University : Budapest University of Economics - Faculty of Finance and Accounting - Economy Informatics    
--   CodeCool - Frontend Web Developer Bootcamp (ongoing)  
 
-### Working Fields  
+- High School : BMSZC Pustkás Tivadar Telecommunication Tech-School
+- University : Budapest University of Economics - Faculty of Finance and Accounting - Economy Informatics
+- CodeCool - Frontend Web Developer Bootcamp (ongoing)
 
--   Telecommunication Technician (as part of high school professional practice)  
--   Technical support for installing telecommunication devices for companies and public services (e.g. police)
--   IT and Web Development Support 
--   System administration  
--   Hosting support and administration   
--   Frontend oriented web development support for websites
+### Working Fields
 
-### Motivation  
+- Telecommunication Technician (as part of high school professional practice)
+- Technical support for installing telecommunication devices for companies and public services (e.g. police)
+- IT and Web Development Support
+- System administration
+- Hosting support and administration
+- Frontend oriented web development support for websites
 
--   He wants to finish this bootcamp so he can become a full-time web developer, and in the future he could become the leader of a developer team.
+### Motivation
+
+- He wants to finish this bootcamp so he can become a full-time web developer, and in the future he could become the leader of a developer team.
 
 ### Skills
 
+- IT background
+- Precise Planing
+- Often takes on the leader role
+
 ### Interests
+
+- Tech
+- Art and Music
+- Sports (Basketball, MMA)
 
 ### Personal Highlights
 
--   Been part of the developer team for a complex Typescript based project made for a construction company. Worked on mainly the frontend of the website and some parts of the API and backend.
--   Won a “1 vs 2” basketball match in the local park.
+- Been part of the developer team for a complex Typescript based project made for a construction company. Worked on mainly the frontend of the website and some parts of the API and backend.
+- Won a “1 vs 2” basketball match in the local park.
 
 ### Music
 
+- Old School HipHop
+- Funk Music
+- Drum and Bass
+
 ### Movie
+
+- Tarentino movies
+- Star Wars (Original trilogy)
+- Sport documentaries
 
 ### Series
 
+- Anime series (Dragon Ball, Cowboy Bebop, One Punch Man, ...)
+
 ### Food
 
+- Mexican cuisine
+- Asian cuisine
+- Italian pasta
+
 ### Pets
+
+- Has cat named Bella

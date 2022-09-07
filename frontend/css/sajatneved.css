@@ -1,0 +1,16 @@
+.main-container {
+  margin-top: 1rem;
+  padding: 2rem;
+  border-color: aqua;
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 15px;
+}
+
+.img-profile {
+  object-fit: cover;
+}
+
+.bio {
+  padding: 5rem;
+}
