@@ -2,26 +2,14 @@
   margin-top: 1rem;
   padding: 2rem;
   border-color: aqua; /* szegély szín */
-  background-color: blue; /* háttér szín */
   border-style: solid;
   border-width: 5px;
   border-radius: 15px;
 }
 
-.custom-header {
-  background-color: blueviolet; /* header szín */
-  color: green; /* header szöveg szín */
-}
-
 .main-container {
   background-image: url(https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80); /* háttér kép */
-  padding: 3rem;
   background-repeat: no-repeat;
-  background-size: cover;
-}
-
-.top-row {
-  margin-bottom: 1rem;
 }
 
 .img-profile {
@@ -33,5 +21,5 @@
 }
 
 .custom-text-color {
-  color: rgb(255, 255, 255) !important; /* szöveg szín */
+  color: black; /* szöveg szín */
 }

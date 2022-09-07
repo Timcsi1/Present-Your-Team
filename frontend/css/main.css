@@ -13,11 +13,10 @@
 h1 {
   font-family: "Montserrat", sans-serif;
   font-size: 40px;
-  color: darkblue;
 }
 .headerImage {
-    position: absolute;
-    right: 20px;
-    height: 150px;
-    width: 300px;
+  position: absolute;
+  right: 20px;
+  height: 150px;
+  width: 300px;
 }
