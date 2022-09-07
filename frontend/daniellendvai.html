@@ -1,85 +1,113 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8" />
-        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Document</title>
-        <link rel="stylesheet" href="css/main.css" />
-        <link rel="stylesheet" href="css/sajatneved.css" />
-        <link rel="stylesheet" href="css/bootstrap.css" />
-        <link rel="stylesheet" href="css/bootstrap-grid.css" />
-        <link rel="stylesheet" href="css/bootstrap-reboot.css" />
-        <link rel="stylesheet" href="css/bootstrap-utilities.css" />
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-        <link
-            href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap"
-            rel="stylesheet"
-        />
-        <link
-            rel="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
-            rel="stylesheet"
-            integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
-            crossorigin="anonymous"
-        />
-    </head>
-    <body>
-        <div class="container-fluid header">
-            <h1>Enthusiastic beginners</h1>
-            <div>
-                <img />
-            </div>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="css/main.css" />
+    <link rel="stylesheet" href="css/sajatneved.css" />
+    <link rel="stylesheet" href="css/bootstrap.css" />
+    <link rel="stylesheet" href="css/bootstrap-grid.css" />
+    <link rel="stylesheet" href="css/bootstrap-reboot.css" />
+    <link rel="stylesheet" href="css/bootstrap-utilities.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <div class="container-fluid header">
+      <h1>Enthusiastic beginners</h1>
+      <img
+        class="headerImage"
+        src="/frontend/IMG/header_web_prog.png"
+        alt="header-image"
+      />
+    </div>
+
+    <div class="container main-container">
+      <div class="row">
+        <div class="col-md-6">
+          <div class="img-profile">
+            <img class="mx-auto d-block img-thumbnail" src="/frontend/IMG/Dani.jpg" style="height:300px;width:60%" />
+          </div>
+        </div>
+        <div class="col-md-6 bio">
+          <h1 class="fullName"></h1>
+          <h3 class="age">X years old</h3>
+          <h3 class="location">Miskolc - Avas Lakótelep</h3>
+          <ul class="skill">
+            <!-- Skills -->
+          </ul>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-6">
+          <div class="container-fluid">
+            <h3>Education</h3>
+            <ul class="education">
+            </ul>
+          </div>
+
+          <div class="container-fluid">
+            <h3>Working Fields</h3>
+            <ul class="working-field">
+            </ul>
+          </div>
+
+          <div class="container-fluid">
+            <h3>Motivation</h3>
+            <ul class="motivation">
+            </ul>
+          </div>
         </div>
 
-        <div class="container">
-            <div class="row">
-                <div class="col-md-8">
-                    <img />
-                    <div class="container-fluid">
-                        <h1>Education</h1>
-                        <ul class="education"></ul>
-                    </div>
+        <div class="col-md-3">
+          <div class="container-fluid">
+            <h4>Interests</h4>
+            <ul class="interest">
+            </ul>
+          </div>
 
-                    <div class="container-fluid">
-                        <h1>Working Fields</h1>
-                        <ul class="working-field"></ul>
-                    </div>
-
-                    <div class="container-fluid">
-                        <h1>Skills</h1>
-                        <ul class="skill"></ul>
-                    </div>
-                </div>
-
-                <div class="col-md-4">
-                    <img />
-                    <div class="container-fluid">
-                        <h1>Interests</h1>
-                        <ul class="interest"></ul>
-                    </div>
-
-                    <div class="container-fluid">
-                        <h1>Personal Highlights</h1>
-                        <ul class="highlight"></ul>
-                    </div>
-
-                    <!-- Innentől szerintem mindenki válasszon 3 kateget amibe felsorol pár dolgot -->
-                    <div class="container-fluid">
-                        <h1>Movies I like</h1>
-                        <ul class="movie"></ul>
-                    </div>
-                    <div class="container-fluid">
-                        <h1>Music I like</h1>
-                        <ul class="music"></ul>
-                    </div>
-                    <div class="container-fluid">
-                        <h1>Videogames I like</h1>
-                        <ul class="videogame"></ul>
-                    </div>
-                </div>
-            </div>
+          <div class="container-fluid">
+            <h4>Personal Highlights</h4>
+            <ul class="highlight">
+            </ul>
+          </div>
         </div>
-        <script src="script.js"></script>
-    </body>
+
+        <!-- Innentől szerintem mindenki válasszon 3 kateget amibe felsorol pár dolgot -->
+
+        <div class="col-md-3">
+          <div class="container-fluid">
+            <h4>Movies</h4>
+            <ul class="movie">
+            </ul>
+          </div>
+
+          <div class="container-fluid">
+            <h4>Music</h4>
+            <ul class="music">
+            </ul>
+          </div>
+
+          <div class="container-fluid">
+            <h4>Videogames</h4>
+            <ul class="videogame">
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
 </html>
