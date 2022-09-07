@@ -9,6 +9,25 @@ let txt =
 
 let obj = JSON.parse(txt); //  converts text into a JavaScript object
 
-document.querySelector(".education").appendChild(document.createElement('li')).textContent = obj.classMates[0].education;
-
-document.querySelector(".working-fields").appendChild(document.createElement('li')).textContent = obj.classMates[0].workingfields;
+let p = window.location.pathname;   //checks which page is running
+if (p.includes("daniellendvai")) {  //if it contains "daniellenvai" then display 
+    document
+        .querySelector(".education")
+        .appendChild(document.createElement("li")).textContent =
+        obj.classMates[0].education;
+    document
+        .querySelector(".working-fields")
+        .appendChild(document.createElement("li")).textContent =
+        obj.classMates[0].workingfields;
+} 
+if (p.includes("sajatneved")) {    //if it contains "sajatneved" then display 
+    document
+        .querySelector(".education")
+        .appendChild(document.createElement("li")).textContent =
+        obj.classMates[0].education;
+    document
+        .querySelector(".working-fields")
+        .appendChild(document.createElement("li")).textContent =
+        obj.classMates[0].workingfields;
+} 
+console.log(p);
