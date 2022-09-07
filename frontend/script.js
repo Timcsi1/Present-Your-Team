@@ -8,8 +8,8 @@ let txt =
     '{"firstName":"Lazlov","lastName":"Abraham","education":"School","motivation":"Lorem ipsum"}]}';
 
 let obj = JSON.parse(txt); //  converts text into a JavaScript object
-
 let p = window.location.pathname; //checks which page is running
+
 if (p.includes("daniellendvai")) {
     //if it contains "daniellenvai" then display
     document.querySelector(".fullName").innerHTML =
@@ -55,6 +55,7 @@ if (p.includes("daniellendvai")) {
         .appendChild(document.createElement("li")).textContent =
         obj.classMates[0].videogame;
 }
+
 if (p.includes("sajatneved")) {
     //if it contains "sajatneved" then display
     document
