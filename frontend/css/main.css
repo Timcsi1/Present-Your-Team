@@ -51,3 +51,7 @@ a {
 .team-card {
   padding-bottom: 2rem;
 }
+label, p {
+  color: white;
+  font-size: 2rem;
+}

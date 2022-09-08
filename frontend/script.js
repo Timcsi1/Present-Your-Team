@@ -63,29 +63,39 @@ if (p.includes("daniellendvai")) {
     document.querySelector(".pet").innerHTML = dani.pet;
 }
 else {
+    // Tomi főoldali lista
     document.querySelector(".tomi").innerHTML = tomi.firstName + " " + tomi.lastName;
     document.querySelector(".tomi-list").appendChild(document.createElement('li')).innerHTML = tomi.age;
     document.querySelector(".tomi-list").appendChild(document.createElement('li')).innerHTML = tomi.location;
-
+    // Timi főoldali lista
     document.querySelector(".timi").innerHTML = timi.firstName + " " + timi.lastName;
     document.querySelector(".timi-list").appendChild(document.createElement('li')).innerHTML = timi.age;
     document.querySelector(".timi-list").appendChild(document.createElement('li')).innerHTML = timi.location;
-
+    // Robi főoldali lista
     document.querySelector(".robi").innerHTML = robi.firstName + " " + robi.lastName;
     document.querySelector(".robi-list").appendChild(document.createElement('li')).innerHTML = robi.age;
     document.querySelector(".robi-list").appendChild(document.createElement('li')).innerHTML = robi.location;
-
+    // Dani főoldali lista
     document.querySelector(".dani").innerHTML = dani.firstName + " " + dani.lastName;
     document.querySelector(".dani-list").appendChild(document.createElement('li')).innerHTML = dani.age;
     document.querySelector(".dani-list").appendChild(document.createElement('li')).innerHTML = dani.location;
-
+    // Márk főoldali lista
     document.querySelector(".mark").innerHTML = mark.firstName + " " + mark.lastName;
     document.querySelector(".mark-list").appendChild(document.createElement('li')).innerHTML = mark.age;
     document.querySelector(".mark-list").appendChild(document.createElement('li')).innerHTML = mark.location;
-
+    // Másik csapat főoldali lista
     document.querySelector(".unknown1").appendChild(document.createElement('li')).innerHTML = otherteam.first;
     document.querySelector(".unknown2").appendChild(document.createElement('li')).innerHTML = otherteam.first;
     document.querySelector(".unknown3").appendChild(document.createElement('li')).innerHTML = otherteam.first;
     document.querySelector(".unknown4").appendChild(document.createElement('li')).innerHTML = otherteam.first;
+}
 
+const checkNumber = () => {
+    const x = document.getElementById("number").value;
+    if (x == undefined) {
+        return;
+    }else if (x == 4){
+        document.querySelector(".guessResult").innerHTML = "Correct!";
+    }else 
+    document.querySelector(".guessResult").innerHTML = "Incorrect!";
 }
