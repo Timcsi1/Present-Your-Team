@@ -30,6 +30,7 @@ h1 {
 .img-card {
   height: 30rem;
   object-fit: cover;
+  display: flex;
 }
 
 a {
@@ -50,8 +51,15 @@ a {
 
 .team-card {
   padding-bottom: 2rem;
+  display: flex;
 }
-label, p {
+
+label,
+p {
   color: white;
   font-size: 2rem;
+}
+
+.guess-button {
+  margin-left: 2rem;
 }
