@@ -27,7 +27,7 @@
     background-image: url(https://st4.depositphotos.com/10325396/23951/i/1600/depositphotos_239513046-stock-photo-programming-code-abstract-technology-background.jpg); /* háttér kép */
     padding: 3rem;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 140%;
 }
 
 .top-row {
