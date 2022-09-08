@@ -17,8 +17,8 @@ h1 {
 .headerImage {
   position: absolute;
   right: 20px;
-  height: 10vw;
-  width: 20vw;
+  height: 10rem;
+  width: 20rem;
 }
 
 @media (max-width: 576px) {
