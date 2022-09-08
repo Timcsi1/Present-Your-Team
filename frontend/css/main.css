@@ -63,3 +63,7 @@ p {
 .guess-button {
   margin-left: 2rem;
 }
+
+.card {
+  width: 100%;
+}
