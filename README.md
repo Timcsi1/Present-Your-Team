@@ -152,7 +152,6 @@ Tourism
 
 ### Food
 
-- POWER GULASH
 - Middle-eastern cuisine
 
 ### Pets
