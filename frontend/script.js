@@ -85,9 +85,9 @@ else {
     document.querySelector(".mark-list").appendChild(document.createElement('li')).innerHTML = mark.location;
     // Másik csapat főoldali lista
     document.querySelector(".unknown1").appendChild(document.createElement('li')).innerHTML = otherteam.first;
-    document.querySelector(".unknown2").appendChild(document.createElement('li')).innerHTML = otherteam.first;
-    document.querySelector(".unknown3").appendChild(document.createElement('li')).innerHTML = otherteam.first;
-    document.querySelector(".unknown4").appendChild(document.createElement('li')).innerHTML = otherteam.first;
+    document.querySelector(".unknown2").appendChild(document.createElement('li')).innerHTML = otherteam.second;
+    document.querySelector(".unknown3").appendChild(document.createElement('li')).innerHTML = otherteam.third;
+    document.querySelector(".unknown4").appendChild(document.createElement('li')).innerHTML = otherteam.fourth;
 }
 
 const checkNumber = () => {
