@@ -11,35 +11,30 @@ dani.highlight = "I have been maintaining a healthy mind for almost 30 years.";
 dani.movie = "MCU movies";
 dani.music = "90's hip-hop allstars";
 dani.pet = "Zsanett the pet rabbit";
-let jsonDani = JSON.stringify(dani); 
 
 let timi = new Object();
 timi.firstName = "Timea";
 timi.lastName = "Her";
 timi.location = "Göd";
 timi.age = "48";
-let jsonTimi = JSON.stringify(timi);
 
 let robi = new Object();
 robi.firstName = "Robert";
 robi.lastName = "Valcsák";
 robi.location = "Leányvár";
 robi.age = "29";
-let jsonRobi = JSON.stringify(robi);
 
 let mark = new Object();
 mark.firstName = "Mark";
 mark.lastName = "Demeter";
 mark.location = "Székesfehérvár";
 mark.age = "32";
-let jsonMark = JSON.stringify(mark);
 
 let tomi = new Object();
 tomi.firstName = "Tamas";
 tomi.lastName = "Petruska";
 tomi.location = "Budapest - XVIII.";
 tomi.age = "23";
-let jsonTomi = JSON.stringify(tomi);
 
 let otherteam = new Object();
 otherteam.first = "Sport és zene szerelmes, fekete öves sörivó. Kaotikus az élete, mint egy Guy Ritchie forgatókönyv.";
@@ -89,7 +84,7 @@ else {
     document.querySelector(".unknown3").appendChild(document.createElement('li')).innerHTML = otherteam.third;
     document.querySelector(".unknown4").appendChild(document.createElement('li')).innerHTML = otherteam.fourth;
 }
-
+    // Guess the other team 
 const checkNumber = () => {
     const x = document.getElementById("number").value;
     if (x == undefined) {
