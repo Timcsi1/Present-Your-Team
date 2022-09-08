@@ -1,7 +1,7 @@
 let dani = new Object();
 dani.firstName = "Daniel";
 dani.lastName = "Lendvai";
-dani.location = "BP since 92'"
+dani.location = "BP since 92'";
 dani.motivation = "Building good-looking stuff from scratch";
 dani.age = "27";
 dani.education = "Szent Istvan University";
@@ -41,6 +41,11 @@ tomi.location = "Budapest - XVIII.";
 tomi.age = "23";
 let jsonTomi = JSON.stringify(tomi);
 
+let otherteam = new Object();
+otherteam.first = "Sport és zene szerelmes, fekete öves sörivó. Kaotikus az élete, mint egy Guy Ritchie forgatókönyv.";
+otherteam.second = "A képzésre a karrierváltás miatt jelentkeztem: ez egy hosszú folyamat fontos állomása az életemben. Célom, hogy új munkaerőpiaci pozícióból kezdjem a dolgos mindennapokat. Szeretek futni és falat mászni - ehhez elegendőek néha a gyerekeim is.";
+otherteam.third = "Kedvenc műfajaim Rock, Blues illetve Contemporary worship meg még sok más. Sokféle sportot szeretek űzni pl. túrázás, biciklizés, snowboardozás. Szeretek inspiráló emberek társaságában lenni.";
+otherteam.fourth = "A marketing világából érkezve iterálnék a webfejlesztés rögös útjaira. Szeretem a sportokat, filmeket, a sörözéssel egybekötött csapatépítéseket, várom, hogy mindenkivel tudjak egyet koccintani. A mentor-simogatás még ismeretlen élmény számomra, de nem zárkózom el az újdonságok elől.";
 
 let p = window.location.pathname; //checks which page is running
 
@@ -77,4 +82,10 @@ else {
     document.querySelector(".mark").innerHTML = mark.firstName + " " + mark.lastName;
     document.querySelector(".mark-list").appendChild(document.createElement('li')).innerHTML = mark.age;
     document.querySelector(".mark-list").appendChild(document.createElement('li')).innerHTML = mark.location;
+
+    document.querySelector(".unknown1").appendChild(document.createElement('li')).innerHTML = otherteam.first;
+    document.querySelector(".unknown2").appendChild(document.createElement('li')).innerHTML = otherteam.first;
+    document.querySelector(".unknown3").appendChild(document.createElement('li')).innerHTML = otherteam.first;
+    document.querySelector(".unknown4").appendChild(document.createElement('li')).innerHTML = otherteam.first;
+
 }
