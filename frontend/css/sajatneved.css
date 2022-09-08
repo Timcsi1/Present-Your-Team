@@ -35,3 +35,11 @@
 .custom-text-color {
   color: rgb(255, 255, 255) !important; /* szöveg szín */
 }
+
+/* ha nem szeretnéd a header-ben a képet akkor szedd ki ezt kommentből
+
+.headerImage{
+   display: none; 
+}
+
+*/
