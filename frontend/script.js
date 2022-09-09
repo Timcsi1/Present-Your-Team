@@ -89,7 +89,7 @@ const checkNumber = () => {
     const x = document.getElementById("number").value;
     if (x == undefined) {
         return;
-    }else if (x == 4){
+    }else if (x == 2){
         document.querySelector(".guessResult").innerHTML = "Correct!";
     }else 
     document.querySelector(".guessResult").innerHTML = "Incorrect!";
